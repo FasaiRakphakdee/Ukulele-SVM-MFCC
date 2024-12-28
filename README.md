@@ -1,5 +1,10 @@
 # Ukulele-SVM-MFCC
 Learning and Recognizing Basic Ukulele Chords Using a  Support Vector Machine (SVM)
+
+## download Dataset
+download Dataset name " Basic-Chord-Ukulele-Dataset " from Kaggle
+https://www.kaggle.com/datasets/rakphakdeefasai/basic-chord-ukulele-dataset
+
 ## Modality 
 - 01 : full-AV
 - 02 : video-only
